@@ -1,0 +1,18 @@
+#btn{
+    height: 100px;
+    width: 30%;
+    background-color: rgb(109, 56, 56);
+    border-radius: 10px;
+    margin-left:40px;
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#divv{
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    width: 30%;
+    margin-top: 10%;
+    background-color: rgb(207, 75, 75);
+}
